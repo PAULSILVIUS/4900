@@ -6,4 +6,5 @@ https://github.com/techwithtim/Beautiful-Soup-Tutorial
 Neobrutulism
 https://www.hybridstateofmind.com/
 
-
+-Github SQL database setup-
+https://www.youtube.com/watch?v=AW_U0q5BtFI
